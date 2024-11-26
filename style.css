@@ -5,7 +5,7 @@
   }  
   header{
       padding: 20px;
-      border: 4px dashed #b2df85;
+      border: 4px dashed #3f700f;
   }
       body{
       font-family: 'arial';
@@ -16,7 +16,7 @@
   }
   
   .menu{
-  color:aquamarine;
+  color:rgb(20, 160, 113);
   text-decoration: 0;
   font-size: 24px;
   margin: 5px;
